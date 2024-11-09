@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quasar App (taskprojectfrontend)
 
 A Quasar Project
@@ -39,3 +40,6 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+=======
+# TaskManagementProject
+>>>>>>> c7054b301ef27dc54141c89bb882e675f9b71321
